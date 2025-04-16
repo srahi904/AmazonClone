@@ -1,4 +1,15 @@
+<!-- 
+React Amazon Clone · Amazon Clone using Vite · E-commerce Website React JS  
+Tailwind CSS Shopping Cart · React JS Final Year Project · Fake Auth in React  
+Vite E-commerce App · Add to Cart Feature in React · React Order Summary UI  
+Modern Amazon UI Clone · React Framer Motion Animations · React Product Filter  
+Wishlist Functionality React · Tailwind Vite Online Store · GitHub Vite E-commerce 
+-->
+
 # 🛒 Amazon Clone - React + Vite
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Vercel](https://img.shields.io/badge/deploy-Vercel-black?logo=vercel)
 
 Welcome to our **Amazon Clone** — a fully functional e-commerce web app built using **React**, **Vite**, and **Tailwind CSS**.  
 This clone replicates the core shopping experience of **Amazon**, including product browsing, cart, wishlist, checkout, and order history.
@@ -18,7 +29,7 @@ This clone replicates the core shopping experience of **Amazon**, including prod
 - 🔐 Simple fake authentication (login/logout)
 - 🧾 Order history with downloadable invoice page
 - 🎉 Confetti & motion animations on successful orders
-
+- 📱 Fully responsive across all devices
 
 ---
 
@@ -59,3 +70,25 @@ npm install
 
 # Start development server
 npm run dev
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions!  
+Feel free to:
+
+- Fork the project  
+- Open issues  
+- Submit pull requests  
+
+If this project helped you, a ⭐ on the repo would mean a lot!
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**  
+© 2025 **Shashi Ranjan Rahi**  
+See [LICENSE](LICENSE) for full details.
+
