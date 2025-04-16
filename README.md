@@ -62,7 +62,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/srahi904/amazon-clone.git
+git clone https://github.com/srahi904/AmazonClone.git
 cd amazon-clone
 
 # Install dependencies
